@@ -21,6 +21,9 @@
             android:text="钱包"
             android:textSize="14sp"
             android:textColor="@color/tab_textcolor"
+            android:drawableTop="@drawable/tab_home_img"
+            android:drawablePadding="3dp"
+            android:padding="5dp"
             />
 
         <TextView
@@ -31,6 +34,9 @@
             android:text="我的"
             android:textSize="14sp"
             android:textColor="@color/tab_textcolor"
+            android:drawableTop="@drawable/tab_mine_img"
+            android:drawablePadding="3dp"
+            android:padding="5dp"
             />
     </LinearLayout>
 
